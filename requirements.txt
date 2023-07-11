@@ -1,0 +1,5 @@
+Django==3.2.7
+django-rest-knox==4.2.0
+asgiref==3.4.1
+djangorestframework==3.12.4
+pytest-django==4.5.2
