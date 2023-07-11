@@ -235,3 +235,7 @@ Or you can run the docker commands bellow:
     ]
 }
 ```
+
+## UNIT TESTS
+
+- On your command line at the root project, run the command: `./manage.py test`
